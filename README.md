@@ -1,3 +1,20 @@
+<p align="center">
+  <a href="https://vawe.dev"><img alt="Awesome agent skills directories: where to list agent skills and plugins" src="assets/banner.png" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vawe-hq/awesome-agent-skills-directories/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vawe-hq/awesome-agent-skills-directories?style=flat" alt="License"></a>
+  <a href="https://github.com/vawe-hq/awesome-agent-skills-directories/stargazers"><img src="https://img.shields.io/github/stars/vawe-hq/awesome-agent-skills-directories?style=flat" alt="GitHub stars"></a>
+  <a href="https://github.com/vawe-hq/awesome-agent-skills-directories/commits/main"><img src="https://img.shields.io/github/last-commit/vawe-hq/awesome-agent-skills-directories?style=flat" alt="Last commit"></a>
+</p>
+
+<p align="center"><b>Registries, marketplaces, directories and awesome lists for agent skills, with the steps to get listed.</b></p>
+
+<p align="center">
+  <a href="https://vawe.dev">vawe.dev</a> |
+  <a href="https://vawe.dev/docs">Docs</a>
+</p>
+
 # Awesome Agent Skills Directories [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > Places that list agent skills and plugins for Claude Code, Codex, Cursor and similar agents, and the steps to get listed.
